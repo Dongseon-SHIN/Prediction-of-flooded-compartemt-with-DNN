@@ -1,1 +1,1 @@
-# Prediction-of-flooded-compartemt-with-DNN
+# Prediction-of-flooded-compartment-with-DNN
